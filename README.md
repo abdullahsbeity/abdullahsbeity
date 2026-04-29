@@ -1,9 +1,10 @@
 # Hi, I'm Abdullah Sbeity 👋
 
-Junior Full Stack & Mobile Developer passionate about building modern web and mobile applications.
+I’m a Junior Full Stack Developer   & Mobile Developer, focused on building modern, responsive, and user-friendly web and mobile applications.
+
+I work with React, Laravel, MySQL, Flutter, and Firebase, and I enjoy creating clean interfaces, REST APIs, admin dashboards, and real-world business solutions.
 
 ## 🚀 About Me
-- Computer Science student
 - Building full-stack projects using React, Laravel, and MySQL
 - Also learning mobile development with Flutter and Firebase
 - Interested in clean UI, dashboards, APIs, and real-world business apps
